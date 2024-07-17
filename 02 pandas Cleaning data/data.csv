@@ -1,0 +1,11 @@
+id,name,age,gender,income,join_date,department
+1,John Doe,28,Male,50000,2020-01-15,Sales
+2,Jane Smith,34,Female,NaN,2019-03-22,Engineering
+3,Emily Davis,22,Female,45000,2021-07-08,Marketing
+4,Michael Brown,45,Male,80000,2018-05-16,NaN
+5,Jessica Johnson,,Female,60000,2019-11-12,Sales
+6,David Wilson,30,Male,55000,2020-09-10,Engineering
+7,,37,Male,75000,2017-08-24,Marketing
+8,Laura Martinez,NaN,Female,65000,2021-02-18,Sales
+9,James Anderson,40,Male,,2019-04-30,Engineering
+10,Mary Taylor,50,Female,90000,2016-06-19,Marketing
